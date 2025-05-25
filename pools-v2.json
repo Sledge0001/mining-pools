@@ -1784,5 +1784,12 @@
     "addresses": [],
     "tags": ["parasite"],
     "link": "https://parasite.space"
+  },
+    {
+    "id": 166,
+    "name": "SoloPool.com",
+    "addresses": [],
+    "tags": ["/ SoloPool.com /"],
+    "link": "https://www.solopool.com"
   }
 ]
