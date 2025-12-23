@@ -1802,5 +1802,16 @@
     ],
     "tags": ["/Est3lar/", "est3lar", "Est3lar", "EST3LAR"],
     "link": "https://est3lar.io"
+  } 
+  {
+    "id": 168,
+    "name": "SoloPool.Com",
+    "addresses": [
+      "bc1qreaftg3lr53nv84dnxhcvchmswevzlp9tdj2jd",
+      "tb1p0ypzcwy0wjxg5whycnl4vxsrcxcgplgfxqvgczv9l6j8kp333lusfht5tq",
+      "2MtUBZ5ajU9fZtEoZsJir9HiUHCh3t32cii"
+      ],
+    "tags": ["/Mined @ SoloPool.Com/"],
+    "link": "https://www.solopool.com"
   }
 ]
