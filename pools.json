@@ -1337,6 +1337,10 @@
         "1BGFwRzjCfRR7EvRHnzfHyFjGR8XiBDFKa" : {
             "name" : "PEGA Pool",
             "link" : "https://www.pega-pool.com"
+        },
+        "bc1qreaftg3lr53nv84dnxhcvchmswevzlp9tdj2jd" : {
+            "name" : "SoloPool.Com",
+            "link" : "https://www.solopool.com"
         }
     },
     "slugs": {
@@ -1478,6 +1482,7 @@
         "1M1X": "1m1x",
         "OKMINER": "okminer",
         "Titan": "titan",
-        "PEGA Pool": "pegapool"
+        "PEGA Pool": "pegapool",
+        "SoloPool.Com": "solopool.com"
     }
 }
